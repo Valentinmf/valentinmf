@@ -3,13 +3,9 @@ Fork on GitHub589
 <h1 align="center">Hi 👋, I'm Valentin Figueiredo</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **VueJS, NuxtJS**
+- How to reach me **valentinfigueiredo@pm.me**
 
-- 📫 How to reach me **valentinfigueiredo@protonmail.com**
-
-- ⚡ Fun fact **I'm a golfer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
