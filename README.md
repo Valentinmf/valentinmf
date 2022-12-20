@@ -3,4 +3,4 @@ Fork on GitHub589
 ### Hi there 👋, my name is Valentin
 #### I am Python Developer
 
-Skills: PYTHON / DJANGO / REACT / JS / HTML / CSS
+Skills: PYTHON / DJANGO / SVELT / JS / HTML / CSS
