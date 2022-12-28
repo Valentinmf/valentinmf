@@ -4,6 +4,6 @@ Fork on GitHub589
 #### I am Python Developer
 
 Languages and tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
 Skills: PYTHON / DJANGO / SVELT / JS / HTML / CSS
