@@ -5,10 +5,10 @@ I envoy learning languages and frameworks like Python, Django and Svelte.
 
 Actually:
 
-> I'm currently working on Django Online course
-> I'm currently currently learning amazing things
-> Fun fact, I'm Golfer
-> How to reach me: Instagram or email
+- I'm currently working on Django Online course
+- I'm currently currently learning amazing things
+- Fun fact, I'm Golfer
+- How to reach me: Instagram or email
 
 ### **Connect with me**:
 
