@@ -1,13 +1,12 @@
-Star this repo3388
-Fork on GitHub589
-### Hi there 👋, my name is Valentin
-#### I am Python Developer
+# **Valentin Code**
+
+I'm Valentin from France, living in France 🇫🇷, FullStack developer, I do content on Development and Freelancing.
+I envoy learning languages and frameworks like Python, Django and Svelte.
+
+### **Connect with me**:
 
 
-### Connect with me:
-
-
-### Languages and tools:
+### **Languages and tools**:
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
