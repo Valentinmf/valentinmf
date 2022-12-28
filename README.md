@@ -18,4 +18,4 @@ Actually:
 
 
 ### **GitHub Stats**:
-[![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinmf)](https://github.com/anuraghazra/github-readme-stats)
+![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinmf&show_icons=true&theme=transparent)
