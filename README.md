@@ -4,7 +4,11 @@ I'm Valentin from France, living in France 🇫🇷, FullStack developer, I do c
 I envoy learning languages and frameworks like Python, Django and Svelte.
 
 Actually:
-> testestest
+
+> I'm currently working on Django Online course
+> I'm currently currently learning amazing things
+> Fun fact, I'm Golfer
+> How to reach me: Instagram or email
 
 ### **Connect with me**:
 
