@@ -3,7 +3,11 @@ Fork on GitHub589
 ### Hi there 👋, my name is Valentin
 #### I am Python Developer
 
-Languages and tools:
+
+### Connect with me:
+
+
+### Languages and tools:
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -17,7 +21,3 @@ Languages and tools:
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
-          
-          
-          
-Skills: PYTHON / DJANGO / SVELT / JS / HTML / CSS
