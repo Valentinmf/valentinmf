@@ -1,7 +1,7 @@
 # **Valentin**
 
-I'm Valentin from France, living in France 🇫🇷, FullStack developer.
-I envoy learning languages and frameworks like Python, Django and Svelte.
+I'm Valentin
+I envoy learning languages and frameworks like Python, Ruby, Javascript, Django and Svelte.
 
 
 ### ⭐**GitHub Stats**:
