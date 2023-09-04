@@ -1,6 +1,4 @@
-# **Valentin**
-
-I'm Valentin
+GM! I'm Valentin
 I envoy learning languages and frameworks like Python, Ruby, Javascript, Django and Svelte.
 
 
